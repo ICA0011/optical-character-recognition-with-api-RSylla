@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11160913&assignment_repo_type=AssignmentRepo)
 # Google Cloud Vision API and Azure Vision Studio text recognition through API
 
 The goal of this assignment is to familiarize students with Application Programming Interface of different services, teach how to handle responses and parse data structures using Python programming language and json library.
