@@ -1,0 +1,1852 @@
+[
+  {
+    "page": 1,
+    "angle": -0.5746,
+    "width": 2984,
+    "height": 2872,
+    "unit": "pixel",
+    "lines": [
+      {
+        "boundingBox": [
+          546,
+          95,
+          2791,
+          100,
+          2790,
+          316,
+          546,
+          305
+        ],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 0.972
+          }
+        },
+        "text": "EN: College Compressed Gas. For the high",
+        "words": [
+          {
+            "boundingBox": [
+              546,
+              157,
+              690,
+              143,
+              699,
+              290,
+              557,
+              299
+            ],
+            "text": "EN:",
+            "confidence": 0.993
+          },
+          {
+            "boundingBox": [
+              722,
+              140,
+              1151,
+              108,
+              1156,
+              268,
+              730,
+              288
+            ],
+            "text": "College",
+            "confidence": 0.996
+          },
+          {
+            "boundingBox": [
+              1183,
+              106,
+              1898,
+              98,
+              1894,
+              266,
+              1187,
+              266
+            ],
+            "text": "Compressed",
+            "confidence": 0.994
+          },
+          {
+            "boundingBox": [
+              1929,
+              99,
+              2181,
+              109,
+              2175,
+              276,
+              1925,
+              267
+            ],
+            "text": "Gas.",
+            "confidence": 0.99
+          },
+          {
+            "boundingBox": [
+              2213,
+              111,
+              2380,
+              122,
+              2372,
+              288,
+              2206,
+              278
+            ],
+            "text": "For",
+            "confidence": 0.998
+          },
+          {
+            "boundingBox": [
+              2412,
+              124,
+              2569,
+              137,
+              2559,
+              301,
+              2403,
+              289
+            ],
+            "text": "the",
+            "confidence": 0.998
+          },
+          {
+            "boundingBox": [
+              2600,
+              140,
+              2791,
+              159,
+              2779,
+              317,
+              2590,
+              303
+            ],
+            "text": "high",
+            "confidence": 0.99
+          }
+        ]
+      },
+      {
+        "boundingBox": [
+          545,
+          271,
+          2796,
+          270,
+          2796,
+          480,
+          545,
+          481
+        ],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 0.972
+          }
+        },
+        "text": "pressure cleaning of electronic equipments,",
+        "words": [
+          {
+            "boundingBox": [
+              545,
+              355,
+              963,
+              306,
+              967,
+              449,
+              554,
+              477
+            ],
+            "text": "pressure",
+            "confidence": 0.994
+          },
+          {
+            "boundingBox": [
+              994,
+              303,
+              1475,
+              274,
+              1473,
+              432,
+              998,
+              448
+            ],
+            "text": "cleaning",
+            "confidence": 0.996
+          },
+          {
+            "boundingBox": [
+              1525,
+              272,
+              1670,
+              271,
+              1667,
+              432,
+              1523,
+              431
+            ],
+            "text": "of",
+            "confidence": 0.996
+          },
+          {
+            "boundingBox": [
+              1699,
+              271,
+              2241,
+              290,
+              2230,
+              445,
+              1695,
+              432
+            ],
+            "text": "electronic",
+            "confidence": 0.995
+          },
+          {
+            "boundingBox": [
+              2270,
+              292,
+              2792,
+              347,
+              2775,
+              481,
+              2259,
+              447
+            ],
+            "text": "equipments,",
+            "confidence": 0.991
+          }
+        ]
+      },
+      {
+        "boundingBox": [
+          538,
+          448,
+          2811,
+          450,
+          2810,
+          664,
+          538,
+          659
+        ],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 0.972
+          }
+        },
+        "text": "inner parts of PCs, TVs, faxes, copying",
+        "words": [
+          {
+            "boundingBox": [
+              538,
+              524,
+              825,
+              491,
+              833,
+              638,
+              549,
+              652
+            ],
+            "text": "inner",
+            "confidence": 0.997
+          },
+          {
+            "boundingBox": [
+              869,
+              487,
+              1191,
+              462,
+              1195,
+              627,
+              877,
+              636
+            ],
+            "text": "parts",
+            "confidence": 0.997
+          },
+          {
+            "boundingBox": [
+              1256,
+              459,
+              1422,
+              453,
+              1424,
+              624,
+              1260,
+              626
+            ],
+            "text": "of",
+            "confidence": 0.998
+          },
+          {
+            "boundingBox": [
+              1477,
+              451,
+              1770,
+              449,
+              1770,
+              625,
+              1478,
+              623
+            ],
+            "text": "PCs,",
+            "confidence": 0.982
+          },
+          {
+            "boundingBox": [
+              1802,
+              448,
+              2082,
+              457,
+              2079,
+              631,
+              1801,
+              625
+            ],
+            "text": "TVs,",
+            "confidence": 0.982
+          },
+          {
+            "boundingBox": [
+              2116,
+              458,
+              2441,
+              479,
+              2434,
+              645,
+              2112,
+              632
+            ],
+            "text": "faxes,",
+            "confidence": 0.995
+          },
+          {
+            "boundingBox": [
+              2472,
+              482,
+              2809,
+              518,
+              2798,
+              665,
+              2465,
+              646
+            ],
+            "text": "copying",
+            "confidence": 0.997
+          }
+        ]
+      },
+      {
+        "boundingBox": [
+          550,
+          639,
+          2803,
+          638,
+          2803,
+          830,
+          551,
+          831
+        ],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 0.972
+          }
+        },
+        "text": "machines, printers, phones, etc. Easily and very",
+        "words": [
+          {
+            "boundingBox": [
+              551,
+              690,
+              1014,
+              658,
+              1019,
+              810,
+              559,
+              828
+            ],
+            "text": "machines,",
+            "confidence": 0.991
+          },
+          {
+            "boundingBox": [
+              1045,
+              657,
+              1491,
+              641,
+              1492,
+              801,
+              1049,
+              809
+            ],
+            "text": "printers,",
+            "confidence": 0.995
+          },
+          {
+            "boundingBox": [
+              1522,
+              640,
+              1948,
+              641,
+              1946,
+              803,
+              1523,
+              800
+            ],
+            "text": "phones,",
+            "confidence": 0.996
+          },
+          {
+            "boundingBox": [
+              1978,
+              641,
+              2151,
+              645,
+              2147,
+              807,
+              1976,
+              804
+            ],
+            "text": "etc.",
+            "confidence": 0.99
+          },
+          {
+            "boundingBox": [
+              2181,
+              646,
+              2425,
+              656,
+              2419,
+              816,
+              2178,
+              808
+            ],
+            "text": "Easily",
+            "confidence": 0.996
+          },
+          {
+            "boundingBox": [
+              2455,
+              658,
+              2597,
+              667,
+              2590,
+              823,
+              2449,
+              817
+            ],
+            "text": "and",
+            "confidence": 0.998
+          },
+          {
+            "boundingBox": [
+              2627,
+              669,
+              2802,
+              680,
+              2794,
+              831,
+              2620,
+              824
+            ],
+            "text": "very",
+            "confidence": 0.988
+          }
+        ]
+      },
+      {
+        "boundingBox": [
+          89,
+          832,
+          343,
+          790,
+          351,
+          867,
+          96,
+          910
+        ],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 0.972
+          }
+        },
+        "text": "Keyboard's",
+        "words": [
+          {
+            "boundingBox": [
+              90,
+              832,
+              340,
+              791,
+              347,
+              870,
+              96,
+              910
+            ],
+            "text": "Keyboard's",
+            "confidence": 0.224
+          }
+        ]
+      },
+      {
+        "boundingBox": [
+          555,
+          822,
+          2808,
+          811,
+          2810,
+          982,
+          556,
+          996
+        ],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 0.972
+          }
+        },
+        "text": "effectively removes dirt and dust also from the",
+        "words": [
+          {
+            "boundingBox": [
+              555,
+              868,
+              1034,
+              834,
+              1037,
+              987,
+              561,
+              996
+            ],
+            "text": "effectively",
+            "confidence": 0.991
+          },
+          {
+            "boundingBox": [
+              1064,
+              833,
+              1525,
+              815,
+              1525,
+              979,
+              1067,
+              986
+            ],
+            "text": "removes",
+            "confidence": 0.996
+          },
+          {
+            "boundingBox": [
+              1556,
+              814,
+              1746,
+              812,
+              1745,
+              978,
+              1555,
+              979
+            ],
+            "text": "dirt",
+            "confidence": 0.991
+          },
+          {
+            "boundingBox": [
+              1777,
+              812,
+              1977,
+              813,
+              1974,
+              978,
+              1775,
+              978
+            ],
+            "text": "and",
+            "confidence": 0.998
+          },
+          {
+            "boundingBox": [
+              2008,
+              813,
+              2218,
+              817,
+              2214,
+              978,
+              2004,
+              978
+            ],
+            "text": "dust",
+            "confidence": 0.989
+          },
+          {
+            "boundingBox": [
+              2249,
+              818,
+              2419,
+              823,
+              2413,
+              980,
+              2244,
+              979
+            ],
+            "text": "also",
+            "confidence": 0.989
+          },
+          {
+            "boundingBox": [
+              2449,
+              824,
+              2640,
+              834,
+              2633,
+              983,
+              2443,
+              980
+            ],
+            "text": "from",
+            "confidence": 0.994
+          },
+          {
+            "boundingBox": [
+              2670,
+              836,
+              2803,
+              843,
+              2795,
+              985,
+              2663,
+              983
+            ],
+            "text": "the",
+            "confidence": 0.998
+          }
+        ]
+      },
+      {
+        "boundingBox": [
+          559,
+          1005,
+          2811,
+          997,
+          2812,
+          1158,
+          560,
+          1169
+        ],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 0.972
+          }
+        },
+        "text": "most hidden parts. Leaves no residue. Keep the",
+        "words": [
+          {
+            "boundingBox": [
+              559,
+              1041,
+              771,
+              1029,
+              773,
+              1163,
+              563,
+              1169
+            ],
+            "text": "most",
+            "confidence": 0.991
+          },
+          {
+            "boundingBox": [
+              798,
+              1027,
+              1161,
+              1010,
+              1162,
+              1152,
+              801,
+              1162
+            ],
+            "text": "hidden",
+            "confidence": 0.997
+          },
+          {
+            "boundingBox": [
+              1189,
+              1009,
+              1486,
+              1001,
+              1486,
+              1147,
+              1190,
+              1151
+            ],
+            "text": "parts.",
+            "confidence": 0.997
+          },
+          {
+            "boundingBox": [
+              1514,
+              1000,
+              1876,
+              997,
+              1874,
+              1145,
+              1513,
+              1146
+            ],
+            "text": "Leaves",
+            "confidence": 0.997
+          },
+          {
+            "boundingBox": [
+              1904,
+              998,
+              2035,
+              999,
+              2032,
+              1146,
+              1902,
+              1145
+            ],
+            "text": "no",
+            "confidence": 0.998
+          },
+          {
+            "boundingBox": [
+              2062,
+              999,
+              2425,
+              1006,
+              2420,
+              1151,
+              2059,
+              1146
+            ],
+            "text": "residue.",
+            "confidence": 0.995
+          },
+          {
+            "boundingBox": [
+              2453,
+              1007,
+              2648,
+              1014,
+              2642,
+              1156,
+              2448,
+              1151
+            ],
+            "text": "Keep",
+            "confidence": 0.991
+          },
+          {
+            "boundingBox": [
+              2676,
+              1016,
+              2808,
+              1021,
+              2802,
+              1161,
+              2670,
+              1157
+            ],
+            "text": "the",
+            "confidence": 0.992
+          }
+        ]
+      },
+      {
+        "boundingBox": [
+          552,
+          1191,
+          2796,
+          1175,
+          2797,
+          1336,
+          554,
+          1365
+        ],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 0.972
+          }
+        },
+        "text": "can in upright position. Date of production: on",
+        "words": [
+          {
+            "boundingBox": [
+              553,
+              1223,
+              696,
+              1214,
+              700,
+              1361,
+              557,
+              1366
+            ],
+            "text": "can",
+            "confidence": 0.995
+          },
+          {
+            "boundingBox": [
+              725,
+              1212,
+              823,
+              1206,
+              826,
+              1354,
+              729,
+              1359
+            ],
+            "text": "in",
+            "confidence": 0.998
+          },
+          {
+            "boundingBox": [
+              852,
+              1204,
+              1242,
+              1187,
+              1243,
+              1339,
+              855,
+              1353
+            ],
+            "text": "upright",
+            "confidence": 0.996
+          },
+          {
+            "boundingBox": [
+              1271,
+              1186,
+              1749,
+              1176,
+              1747,
+              1329,
+              1272,
+              1338
+            ],
+            "text": "position.",
+            "confidence": 0.995
+          },
+          {
+            "boundingBox": [
+              1778,
+              1176,
+              2022,
+              1176,
+              2019,
+              1327,
+              1776,
+              1329
+            ],
+            "text": "Date",
+            "confidence": 0.991
+          },
+          {
+            "boundingBox": [
+              2051,
+              1176,
+              2148,
+              1177,
+              2145,
+              1327,
+              2048,
+              1327
+            ],
+            "text": "of",
+            "confidence": 0.998
+          },
+          {
+            "boundingBox": [
+              2178,
+              1177,
+              2675,
+              1192,
+              2669,
+              1335,
+              2174,
+              1327
+            ],
+            "text": "production:",
+            "confidence": 0.994
+          },
+          {
+            "boundingBox": [
+              2704,
+              1193,
+              2794,
+              1196,
+              2788,
+              1337,
+              2698,
+              1335
+            ],
+            "text": "on",
+            "confidence": 0.988
+          }
+        ]
+      },
+      {
+        "boundingBox": [
+          563,
+          1387,
+          1525,
+          1357,
+          1526,
+          1495,
+          566,
+          1532
+        ],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 0.972
+          }
+        },
+        "text": "the bottom of can.",
+        "words": [
+          {
+            "boundingBox": [
+              564,
+              1388,
+              695,
+              1385,
+              697,
+              1525,
+              566,
+              1533
+            ],
+            "text": "the",
+            "confidence": 0.998
+          },
+          {
+            "boundingBox": [
+              721,
+              1384,
+              1083,
+              1374,
+              1083,
+              1504,
+              723,
+              1523
+            ],
+            "text": "bottom",
+            "confidence": 0.997
+          },
+          {
+            "boundingBox": [
+              1138,
+              1372,
+              1245,
+              1369,
+              1244,
+              1499,
+              1138,
+              1502
+            ],
+            "text": "of",
+            "confidence": 0.998
+          },
+          {
+            "boundingBox": [
+              1272,
+              1368,
+              1522,
+              1358,
+              1520,
+              1494,
+              1270,
+              1498
+            ],
+            "text": "can.",
+            "confidence": 0.987
+          }
+        ]
+      },
+      {
+        "boundingBox": [
+          93,
+          1548,
+          348,
+          1531,
+          353,
+          1612,
+          95,
+          1627
+        ],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 0.972
+          }
+        },
+        "text": "Computers",
+        "words": [
+          {
+            "boundingBox": [
+              93,
+              1550,
+              347,
+              1531,
+              350,
+              1614,
+              95,
+              1627
+            ],
+            "text": "Computers",
+            "confidence": 0.994
+          }
+        ]
+      },
+      {
+        "boundingBox": [
+          565,
+          1616,
+          2822,
+          1595,
+          2824,
+          1743,
+          565,
+          1777
+        ],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 0.972
+          }
+        },
+        "text": "EE: College Surugaas. Körge survega saab",
+        "words": [
+          {
+            "boundingBox": [
+              567,
+              1628,
+              732,
+              1622,
+              731,
+              1775,
+              566,
+              1778
+            ],
+            "text": "EE:",
+            "confidence": 0.998
+          },
+          {
+            "boundingBox": [
+              762,
+              1621,
+              1164,
+              1609,
+              1163,
+              1763,
+              761,
+              1774
+            ],
+            "text": "College",
+            "confidence": 0.997
+          },
+          {
+            "boundingBox": [
+              1216,
+              1608,
+              1816,
+              1598,
+              1814,
+              1750,
+              1214,
+              1762
+            ],
+            "text": "Surugaas.",
+            "confidence": 0.994
+          },
+          {
+            "boundingBox": [
+              1848,
+              1597,
+              2181,
+              1596,
+              2179,
+              1745,
+              1846,
+              1750
+            ],
+            "text": "Körge",
+            "confidence": 0.964
+          },
+          {
+            "boundingBox": [
+              2233,
+              1596,
+              2609,
+              1597,
+              2606,
+              1742,
+              2231,
+              1745
+            ],
+            "text": "survega",
+            "confidence": 0.996
+          },
+          {
+            "boundingBox": [
+              2638,
+              1598,
+              2818,
+              1599,
+              2816,
+              1741,
+              2636,
+              1742
+            ],
+            "text": "saab",
+            "confidence": 0.988
+          }
+        ]
+      },
+      {
+        "boundingBox": [
+          11,
+          1821,
+          2830,
+          1775,
+          2831,
+          1909,
+          14,
+          1977
+        ],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 0.972
+          }
+        },
+        "text": "elektroonilisi seadmeid, arvutikorpuse sisemust, televiisoreid,",
+        "words": [
+          {
+            "boundingBox": [
+              12,
+              1842,
+              370,
+              1824,
+              372,
+              1966,
+              14,
+              1978
+            ],
+            "text": "elektroonilisi",
+            "confidence": 0.867
+          },
+          {
+            "boundingBox": [
+              398,
+              1822,
+              905,
+              1802,
+              906,
+              1948,
+              400,
+              1965
+            ],
+            "text": "seadmeid,",
+            "confidence": 0.995
+          },
+          {
+            "boundingBox": [
+              954,
+              1801,
+              1684,
+              1782,
+              1682,
+              1927,
+              954,
+              1946
+            ],
+            "text": "arvutikorpuse",
+            "confidence": 0.993
+          },
+          {
+            "boundingBox": [
+              1788,
+              1781,
+              2305,
+              1776,
+              2302,
+              1916,
+              1787,
+              1925
+            ],
+            "text": "sisemust,",
+            "confidence": 0.994
+          },
+          {
+            "boundingBox": [
+              2344,
+              1776,
+              2829,
+              1777,
+              2825,
+              1909,
+              2341,
+              1915
+            ],
+            "text": "televiisoreid,",
+            "confidence": 0.941
+          }
+        ]
+      },
+      {
+        "boundingBox": [
+          32,
+          1997,
+          2840,
+          1950,
+          2844,
+          2096,
+          35,
+          2162
+        ],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 0.972
+          }
+        },
+        "text": "printereid, telefone. Kergesti ja efektiivselt eemaldab mustust ja",
+        "words": [
+          {
+            "boundingBox": [
+              32,
+              2018,
+              300,
+              2005,
+              306,
+              2154,
+              38,
+              2162
+            ],
+            "text": "printereid,",
+            "confidence": 0.97
+          },
+          {
+            "boundingBox": [
+              330,
+              2004,
+              680,
+              1989,
+              685,
+              2142,
+              336,
+              2153
+            ],
+            "text": "telefone.",
+            "confidence": 0.995
+          },
+          {
+            "boundingBox": [
+              710,
+              1988,
+              1111,
+              1974,
+              1115,
+              2130,
+              715,
+              2141
+            ],
+            "text": "Kergesti",
+            "confidence": 0.996
+          },
+          {
+            "boundingBox": [
+              1141,
+              1973,
+              1251,
+              1969,
+              1255,
+              2126,
+              1145,
+              2129
+            ],
+            "text": "ja",
+            "confidence": 0.998
+          },
+          {
+            "boundingBox": [
+              1281,
+              1969,
+              1852,
+              1957,
+              1855,
+              2113,
+              1285,
+              2125
+            ],
+            "text": "efektiivselt",
+            "confidence": 0.991
+          },
+          {
+            "boundingBox": [
+              1882,
+              1956,
+              2382,
+              1951,
+              2385,
+              2104,
+              1885,
+              2113
+            ],
+            "text": "eemaldab",
+            "confidence": 0.995
+          },
+          {
+            "boundingBox": [
+              2412,
+              1951,
+              2723,
+              1951,
+              2725,
+              2100,
+              2415,
+              2104
+            ],
+            "text": "mustust",
+            "confidence": 0.997
+          },
+          {
+            "boundingBox": [
+              2753,
+              1951,
+              2836,
+              1951,
+              2838,
+              2099,
+              2755,
+              2100
+            ],
+            "text": "ja",
+            "confidence": 0.998
+          }
+        ]
+      },
+      {
+        "boundingBox": [
+          12,
+          2182,
+          2834,
+          2125,
+          2836,
+          2272,
+          12,
+          2337
+        ],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 0.972
+          }
+        },
+        "text": "kesti ligipääsetavatest kohtadest. Ei jäta jääke. Hoida purki püstises",
+        "words": [
+          {
+            "boundingBox": [
+              18,
+              2196,
+              76,
+              2194,
+              70,
+              2337,
+              12,
+              2337
+            ],
+            "text": "kesti",
+            "confidence": 0.842
+          },
+          {
+            "boundingBox": [
+              106,
+              2193,
+              687,
+              2171,
+              682,
+              2323,
+              100,
+              2337
+            ],
+            "text": "ligipääsetavatest",
+            "confidence": 0.958
+          },
+          {
+            "boundingBox": [
+              717,
+              2169,
+              1239,
+              2153,
+              1233,
+              2310,
+              712,
+              2323
+            ],
+            "text": "kohtadest.",
+            "confidence": 0.995
+          },
+          {
+            "boundingBox": [
+              1269,
+              2152,
+              1369,
+              2150,
+              1364,
+              2307,
+              1264,
+              2310
+            ],
+            "text": "Ei",
+            "confidence": 0.998
+          },
+          {
+            "boundingBox": [
+              1399,
+              2149,
+              1600,
+              2144,
+              1595,
+              2302,
+              1394,
+              2307
+            ],
+            "text": "jäta",
+            "confidence": 0.991
+          },
+          {
+            "boundingBox": [
+              1630,
+              2143,
+              1931,
+              2137,
+              1926,
+              2295,
+              1625,
+              2301
+            ],
+            "text": "jääke.",
+            "confidence": 0.892
+          },
+          {
+            "boundingBox": [
+              1961,
+              2137,
+              2262,
+              2132,
+              2257,
+              2287,
+              1956,
+              2294
+            ],
+            "text": "Hoida",
+            "confidence": 0.997
+          },
+          {
+            "boundingBox": [
+              2292,
+              2131,
+              2512,
+              2129,
+              2508,
+              2282,
+              2287,
+              2287
+            ],
+            "text": "purki",
+            "confidence": 0.998
+          },
+          {
+            "boundingBox": [
+              2543,
+              2128,
+              2836,
+              2125,
+              2832,
+              2275,
+              2538,
+              2281
+            ],
+            "text": "püstises",
+            "confidence": 0.995
+          }
+        ]
+      },
+      {
+        "boundingBox": [
+          0,
+          2358,
+          913,
+          2347,
+          914,
+          2495,
+          0,
+          2502
+        ],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 0.972
+          }
+        },
+        "text": "miskuupäev asub purgi all.",
+        "words": [
+          {
+            "boundingBox": [
+              7,
+              2359,
+              293,
+              2357,
+              297,
+              2502,
+              7,
+              2501
+            ],
+            "text": "miskuupäev",
+            "confidence": 0.811
+          },
+          {
+            "boundingBox": [
+              322,
+              2356,
+              484,
+              2354,
+              489,
+              2502,
+              325,
+              2502
+            ],
+            "text": "asub",
+            "confidence": 0.99
+          },
+          {
+            "boundingBox": [
+              512,
+              2354,
+              741,
+              2350,
+              750,
+              2496,
+              518,
+              2502
+            ],
+            "text": "purgi",
+            "confidence": 0.997
+          },
+          {
+            "boundingBox": [
+              770,
+              2350,
+              906,
+              2347,
+              915,
+              2489,
+              779,
+              2495
+            ],
+            "text": "all.",
+            "confidence": 0.988
+          }
+        ]
+      },
+      {
+        "boundingBox": [
+          10,
+          2586,
+          2867,
+          2526,
+          2870,
+          2698,
+          10,
+          2739
+        ],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 0.972
+          }
+        },
+        "text": "saspiestais gaiss. Tirošais lidzeklis ar augstu spiedienu, kas ir",
+        "words": [
+          {
+            "boundingBox": [
+              15,
+              2592,
+              308,
+              2594,
+              305,
+              2739,
+              10,
+              2738
+            ],
+            "text": "saspiestais",
+            "confidence": 0.899
+          },
+          {
+            "boundingBox": [
+              338,
+              2594,
+              594,
+              2593,
+              592,
+              2739,
+              335,
+              2739
+            ],
+            "text": "gaiss.",
+            "confidence": 0.996
+          },
+          {
+            "boundingBox": [
+              623,
+              2593,
+              997,
+              2590,
+              999,
+              2738,
+              622,
+              2739
+            ],
+            "text": "Tirošais",
+            "confidence": 0.932
+          },
+          {
+            "boundingBox": [
+              1027,
+              2590,
+              1489,
+              2581,
+              1494,
+              2730,
+              1028,
+              2737
+            ],
+            "text": "lidzeklis",
+            "confidence": 0.81
+          },
+          {
+            "boundingBox": [
+              1519,
+              2580,
+              1656,
+              2577,
+              1663,
+              2727,
+              1524,
+              2729
+            ],
+            "text": "ar",
+            "confidence": 0.998
+          },
+          {
+            "boundingBox": [
+              1686,
+              2576,
+              2077,
+              2563,
+              2086,
+              2715,
+              1692,
+              2726
+            ],
+            "text": "augstu",
+            "confidence": 0.997
+          },
+          {
+            "boundingBox": [
+              2109,
+              2562,
+              2601,
+              2540,
+              2613,
+              2694,
+              2118,
+              2714
+            ],
+            "text": "spiedienu,",
+            "confidence": 0.993
+          },
+          {
+            "boundingBox": [
+              2630,
+              2538,
+              2758,
+              2532,
+              2771,
+              2687,
+              2643,
+              2693
+            ],
+            "text": "kas",
+            "confidence": 0.998
+          },
+          {
+            "boundingBox": [
+              2787,
+              2530,
+              2859,
+              2527,
+              2871,
+              2683,
+              2801,
+              2686
+            ],
+            "text": "ir",
+            "confidence": 0.997
+          }
+        ]
+      },
+      {
+        "boundingBox": [
+          4,
+          2756,
+          2861,
+          2721,
+          2863,
+          2852,
+          5,
+          2869
+        ],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 0.972
+          }
+        },
+        "text": "toru. TV. faksu, konéiamo mašinu, printeru, telefonu un citu",
+        "words": [
+          {
+            "boundingBox": [
+              4,
+              2770,
+              92,
+              2771,
+              94,
+              2866,
+              6,
+              2865
+            ],
+            "text": "toru.",
+            "confidence": 0.668
+          },
+          {
+            "boundingBox": [
+              113,
+              2771,
+              216,
+              2772,
+              218,
+              2868,
+              114,
+              2866
+            ],
+            "text": "TV.",
+            "confidence": 0.811
+          },
+          {
+            "boundingBox": [
+              237,
+              2773,
+              478,
+              2775,
+              480,
+              2869,
+              238,
+              2868
+            ],
+            "text": "faksu,",
+            "confidence": 0.663
+          },
+          {
+            "boundingBox": [
+              499,
+              2775,
+              972,
+              2774,
+              975,
+              2869,
+              500,
+              2869
+            ],
+            "text": "konéiamo",
+            "confidence": 0.598
+          },
+          {
+            "boundingBox": [
+              1050,
+              2773,
+              1517,
+              2766,
+              1519,
+              2869,
+              1052,
+              2869
+            ],
+            "text": "mašinu,",
+            "confidence": 0.68
+          },
+          {
+            "boundingBox": [
+              1553,
+              2766,
+              2061,
+              2752,
+              2064,
+              2863,
+              1555,
+              2869
+            ],
+            "text": "printeru,",
+            "confidence": 0.859
+          },
+          {
+            "boundingBox": [
+              2090,
+              2751,
+              2501,
+              2736,
+              2505,
+              2854,
+              2093,
+              2863
+            ],
+            "text": "telefonu",
+            "confidence": 0.995
+          },
+          {
+            "boundingBox": [
+              2551,
+              2734,
+              2673,
+              2729,
+              2677,
+              2849,
+              2555,
+              2852
+            ],
+            "text": "un",
+            "confidence": 0.998
+          },
+          {
+            "boundingBox": [
+              2709,
+              2727,
+              2856,
+              2721,
+              2860,
+              2844,
+              2713,
+              2848
+            ],
+            "text": "citu",
+            "confidence": 0.991
+          }
+        ]
+      }
+    ]
+  }
+]

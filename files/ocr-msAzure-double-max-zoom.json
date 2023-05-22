@@ -1,0 +1,578 @@
+[
+  {
+    "page": 1,
+    "angle": 0.6903,
+    "width": 1303,
+    "height": 631,
+    "unit": "pixel",
+    "lines": [
+      {
+        "boundingBox": [
+          176,
+          74,
+          275,
+          75,
+          274,
+          167,
+          173,
+          170
+        ],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 0.972
+          }
+        },
+        "text": "E",
+        "words": [
+          {
+            "boundingBox": [
+              177,
+              74,
+              233,
+              74,
+              234,
+              169,
+              178,
+              170
+            ],
+            "text": "E",
+            "confidence": 0.961
+          }
+        ]
+      },
+      {
+        "boundingBox": [
+          144,
+          189,
+          298,
+          194,
+          298,
+          252,
+          140,
+          250
+        ],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 0.972
+          }
+        },
+        "text": "F P",
+        "words": [
+          {
+            "boundingBox": [
+              141,
+              189,
+              176,
+              189,
+              174,
+              250,
+              140,
+              249
+            ],
+            "text": "F",
+            "confidence": 0.995
+          },
+          {
+            "boundingBox": [
+              238,
+              191,
+              273,
+              191,
+              272,
+              252,
+              236,
+              252
+            ],
+            "text": "P",
+            "confidence": 0.994
+          }
+        ]
+      },
+      {
+        "boundingBox": [
+          659,
+          140,
+          1114,
+          139,
+          1114,
+          200,
+          659,
+          200
+        ],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 0.972
+          }
+        },
+        "text": "ONVSR",
+        "words": [
+          {
+            "boundingBox": [
+              659,
+              142,
+              1074,
+              140,
+              1076,
+              200,
+              659,
+              199
+            ],
+            "text": "ONVSR",
+            "confidence": 0.938
+          }
+        ]
+      },
+      {
+        "boundingBox": [
+          121,
+          254,
+          322,
+          260,
+          321,
+          320,
+          119,
+          315
+        ],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 0.972
+          }
+        },
+        "text": "TOZ",
+        "words": [
+          {
+            "boundingBox": [
+              124,
+              254,
+              305,
+              263,
+              304,
+              320,
+              119,
+              316
+            ],
+            "text": "TOZ",
+            "confidence": 0.778
+          }
+        ]
+      },
+      {
+        "boundingBox": [
+          691,
+          236,
+          1071,
+          236,
+          1071,
+          292,
+          691,
+          292
+        ],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 0.972
+          }
+        },
+        "text": "KD NRO",
+        "words": [
+          {
+            "boundingBox": [
+              691,
+              237,
+              792,
+              236,
+              794,
+              293,
+              695,
+              293
+            ],
+            "text": "KD",
+            "confidence": 0.789
+          },
+          {
+            "boundingBox": [
+              848,
+              236,
+              1052,
+              238,
+              1051,
+              293,
+              849,
+              292
+            ],
+            "text": "NRO",
+            "confidence": 0.808
+          }
+        ]
+      },
+      {
+        "boundingBox": [
+          111,
+          328,
+          320,
+          331,
+          319,
+          367,
+          111,
+          364
+        ],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 0.972
+          }
+        },
+        "text": "LPED",
+        "words": [
+          {
+            "boundingBox": [
+              112,
+              329,
+              305,
+              333,
+              305,
+              367,
+              112,
+              365
+            ],
+            "text": "LPED",
+            "confidence": 0.792
+          }
+        ]
+      },
+      {
+        "boundingBox": [
+          720,
+          312,
+          1038,
+          313,
+          1038,
+          359,
+          720,
+          358
+        ],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 0.972
+          }
+        },
+        "text": "ZKCSV",
+        "words": [
+          {
+            "boundingBox": [
+              720,
+              313,
+              1021,
+              315,
+              1023,
+              358,
+              721,
+              359
+            ],
+            "text": "ZKCSV",
+            "confidence": 0.85
+          }
+        ]
+      },
+      {
+        "boundingBox": [
+          104,
+          381,
+          326,
+          385,
+          325,
+          417,
+          103,
+          412
+        ],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 0.972
+          }
+        },
+        "text": "PECFD",
+        "words": [
+          {
+            "boundingBox": [
+              105,
+              381,
+              315,
+              387,
+              314,
+              417,
+              103,
+              413
+            ],
+            "text": "PECFD",
+            "confidence": 0.85
+          }
+        ]
+      },
+      {
+        "boundingBox": [
+          753,
+          379,
+          1004,
+          378,
+          1004,
+          414,
+          754,
+          416
+        ],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 0.972
+          }
+        },
+        "text": "DVO HC",
+        "words": [
+          {
+            "boundingBox": [
+              754,
+              380,
+              880,
+              379,
+              880,
+              416,
+              755,
+              417
+            ],
+            "text": "DVO",
+            "confidence": 0.879
+          },
+          {
+            "boundingBox": [
+              912,
+              379,
+              990,
+              378,
+              989,
+              415,
+              911,
+              415
+            ],
+            "text": "HC",
+            "confidence": 0.637
+          }
+        ]
+      },
+      {
+        "boundingBox": [
+          108,
+          430,
+          319,
+          434,
+          318,
+          459,
+          108,
+          455
+        ],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 0.972
+          }
+        },
+        "text": "EDFCZP",
+        "words": [
+          {
+            "boundingBox": [
+              108,
+              430,
+              309,
+              435,
+              309,
+              460,
+              108,
+              456
+            ],
+            "text": "EDFCZP",
+            "confidence": 0.682
+          }
+        ]
+      },
+      {
+        "boundingBox": [
+          777,
+          428,
+          978,
+          429,
+          978,
+          458,
+          777,
+          457
+        ],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 0.972
+          }
+        },
+        "text": "OHVCK",
+        "words": [
+          {
+            "boundingBox": [
+              777,
+              429,
+              964,
+              429,
+              963,
+              459,
+              777,
+              456
+            ],
+            "text": "OHVCK",
+            "confidence": 0.627
+          }
+        ]
+      },
+      {
+        "boundingBox": [
+          111,
+          474,
+          311,
+          478,
+          311,
+          500,
+          111,
+          495
+        ],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 0.972
+          }
+        },
+        "text": "FELOPZD",
+        "words": [
+          {
+            "boundingBox": [
+              112,
+              474,
+              304,
+              480,
+              304,
+              500,
+              112,
+              496
+            ],
+            "text": "FELOPZD",
+            "confidence": 0.848
+          }
+        ]
+      },
+      {
+        "boundingBox": [
+          794,
+          464,
+          960,
+          466,
+          960,
+          495,
+          794,
+          493
+        ],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 0.972
+          }
+        },
+        "text": "HZOKO",
+        "words": [
+          {
+            "boundingBox": [
+              796,
+              465,
+              950,
+              467,
+              948,
+              495,
+              795,
+              493
+            ],
+            "text": "HZOKO",
+            "confidence": 0.669
+          }
+        ]
+      },
+      {
+        "boundingBox": [
+          811,
+          499,
+          944,
+          500,
+          944,
+          519,
+          811,
+          517
+        ],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 0.972
+          }
+        },
+        "text": "NOKHD",
+        "words": [
+          {
+            "boundingBox": [
+              812,
+              499,
+              931,
+              501,
+              930,
+              519,
+              811,
+              517
+            ],
+            "text": "NOKHD",
+            "confidence": 0.647
+          }
+        ]
+      },
+      {
+        "boundingBox": [
+          118,
+          514,
+          304,
+          516,
+          304,
+          535,
+          118,
+          531
+        ],
+        "appearance": {
+          "style": {
+            "name": "other",
+            "confidence": 0.972
+          }
+        },
+        "text": "DETPOTEO",
+        "words": [
+          {
+            "boundingBox": [
+              119,
+              514,
+              298,
+              517,
+              298,
+              535,
+              119,
+              532
+            ],
+            "text": "DETPOTEO",
+            "confidence": 0.648
+          }
+        ]
+      }
+    ]
+  }
+]
