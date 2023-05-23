@@ -28,29 +28,34 @@ def extract_data_azure(path):
                 list_of_letters.append(b["text"])
     return list_of_letters
 
-
+def analyze_confidece_for_ocr(orig_arr, google_arr, human_arr):
+    false_google_chars = 0
+    false_human_chars = 0
+    for i in range(len(google_arr)):
+        if orig_arr[i] != google_arr[i]:
+            false_google_chars += 1
+        elif orig_arr[i] != human_arr[i]:
+            false_human_chars += 1
+    print(f"False chars for google: {false_google_chars}\n"
+          f"False chars for human: {false_human_chars}")
 
 if __name__ == '__main__':
-
-    orig_snellen = "EFPT0ZLPEDPECFDEDFCZPFELOPZDDEFPOTECLEFODPCT"
 
     max_zoom_google = "files/ocr-google-double-max-zoom.json"
     data_google = extract_data_google(max_zoom_google)
 
-    max_zoom_azure = "files/ocr-msAzure-double-max-zoom.json"
-    data_azure = extract_data_azure(max_zoom_azure)
-    data_azure = "".join(list("".join(data_azure)))
+    orig_snellen = "EFPTOZLPEDPECFDEDFCZPFELOPZDDEFPOTECLEFODPCT"
+    orig_logmar = "ONVSRKDNROZKCSVDVOHCOHVCKHZCKONCKHDZHCSR"
 
-    snellen_google = data_google[:44]
-    logmar_google = data_google[44:]
+    human_snellen = "EFPTOZLPEDPECFDEDFCZPFELOPZDDEFPOTEOLEFGDPCT"
+    human_logmar = "ONVSRKDNROZKCSVDVOHCOHVCKHZCKONCKMDZHCSR"
 
-    snellen_azure = data_azure[:44]
-    logmar_azure = data_azure[44:]
+    google_snellen = "".join(data_google[:44])
+    google_logmar = "".join(data_google[44:])
+    print(f"len logmar: {len(google_logmar)}, len snellen: {len(google_snellen)}")
+    print("Logmar:")
+    analyze_confidece_for_ocr(orig_logmar, google_logmar, human_logmar)
+    print("--------------------\n"
+          "Snellen:")
+    analyze_confidece_for_ocr(orig_snellen, google_snellen, human_snellen)
 
-    print(len(data_google))
-    print("".join(snellen_google))
-    print("".join(logmar_google))
-
-    print(len(data_azure))
-    print("".join(snellen_azure))
-    print("".join(logmar_azure))
