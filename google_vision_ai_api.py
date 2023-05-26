@@ -2,12 +2,10 @@ import os
 import json
 # Imports the Google Cloud client library
 from google.cloud import vision
-from google.protobuf.json_format import MessageToDict
 
 
 
-def run_quickstart() -> vision.EntityAnnotation:
-    """Provides a quick start example for Cloud Vision."""
+def run_quickstart():
 
     # Instantiates a client
     client = vision.ImageAnnotatorClient()
@@ -23,14 +21,9 @@ def run_quickstart() -> vision.EntityAnnotation:
 
     # Performs label detection on the image file
     response = client.text_detection(image=image)
-    # data = response.text_annotations
-    # text = json.loads(MessageToJson(data))
-
-    response = MessageToDict(response, preserving_proto_field_name = True)
-    desired_res = response["label_annotation"]
-    print(desired_res)
-    # for k in text:
-    #     print(k)
+    text = json.loads(type(response).to_json(response))
+    # text = MessageToJson(data)
+    print(text["textAnnotations"][0]["description"])
 
 
 if __name__ == "__main__":
