@@ -1,6 +1,7 @@
 import json
 import http.client, urllib.request, urllib.parse, urllib.error, base64
 
+
 credentials = json.load(open("files/credentials.json"))
 VISION_KEY = credentials["VISION_KEY"]
 ENDPOINT = credentials["VISION_ENDPOINT"]
@@ -25,8 +26,8 @@ try:
     conn.request("POST", f"/computervision/imageanalysis:analyze?api-version=2023-02-01-preview&{params}",
                  body, headers)
     response = conn.getresponse()
-    data = response.read()
-    print(data)
+    data = json.loads(response.read())
+    print(data["readResult"]["content"])
     conn.close()
 except Exception as e:
     print("[Errno {0}] {1}".format(e.errno, e.strerror))
